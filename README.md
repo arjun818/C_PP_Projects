@@ -1,1 +1,1 @@
-This is my calculator project where in a simple and scientific calculator is done.
+This ia GITHUB repo for C++ projects that I make from basic to advanced 
